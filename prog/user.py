@@ -1,0 +1,6 @@
+n = input("Write your name: ")
+a = input("Write your age: ")
+t = input("Write your town: ")
+print("This is ", n)
+print("It is ", a)
+print("(S)he live in ", t)
